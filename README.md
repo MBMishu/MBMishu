@@ -34,7 +34,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 <br />
-  <img align="left" alt="" src="https://github-readme-stats.codestackr.vercel.app/api?username=MBMishu&show_icons=true&theme=radical" />
+  <img align="left" alt="" src="https://github-readme-stats.codestackr.vercel.app/api?username=MBMishu&show_icons=true&theme=dark" />
 
 
 

@@ -1,16 +1,23 @@
 ### Hi there,I'm A.T.M. Masum Billah 👋
 
-<!--
-**MBMishu/MBMishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=mbmishu.com&style=plastic&url=https%3A%2F%2Fmbmishu.com%2F)](https://mbmishu.com/)
 
-Here are some ideas to get you started:
+## I'm a  Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Connect with me:
+
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+
+[website]: https://mbmishu.com/
+
+[youtube]: https://www.youtube.com/channel/UCZqTclnC77TmiSzsosMj-Cg
+[instagram]: https://www.instagram.com/mb_mishu/
+[linkedin]: https://www.linkedin.com/in/masum-billah-mishu/

@@ -1,4 +1,4 @@
-### Hi there,I'm A.T.M. Masum Billah 👋
+### Hi there, I'm A.T.M. Masum Billah 👋
 
 [![Website](https://img.shields.io/website?label=mbmishu.com&style=plastic&url=https%3A%2F%2Fmbmishu.com%2F)](https://mbmishu.com/)
 
@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -33,10 +33,10 @@
 
 
   <summary>:zap: GitHub Stats</summary>
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBMishu&show_icons=true&locale=en&layout=compact" alt="MBMishu" />
-<br />
-  <img align="left" alt="" src="https://github-readme-stats.codestackr.vercel.app/api?username=MBMishu&show_icons=true&theme=tokyonight" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBMishu&show_icons=true&locale=en&layout=compact" alt="MBMishu" /></p>
+<p>
+  <img align="left" alt="" src="https://github-readme-stats.codestackr.vercel.app/api?username=MBMishu&show_icons=true&theme=tokyonight" /></p>
 
 
 

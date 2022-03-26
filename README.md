@@ -25,8 +25,10 @@
 <img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
+<img align="left" alt="java" width="46px" src="https://user-images.githubusercontent.com/46429170/160254646-39ba3252-fc7a-476d-8ead-3ea7868bd360.png"/>
+<img align="left" alt="android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 <img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4"/>
+<img align="left" alt="GitHub" width="46px" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667"/>
 <img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"/>
 <img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 

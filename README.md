@@ -27,6 +27,7 @@
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
 <img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4"/>
+<img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"/>
 <img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 
 <br />

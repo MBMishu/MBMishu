@@ -42,8 +42,7 @@
   <summary>:zap: GitHub Stats</summary>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBMishu&show_icons=true&locale=en&layout=compact" alt="MBMishu" /></p>
-<p>
-  <img align="left" alt="" src="https://github-readme-stats.codestackr.vercel.app/api?username=MBMishu&show_icons=true&theme=tokyonight" /></p>
+
 
 
 

@@ -46,7 +46,7 @@
 
 
 
-[website]: https://mbmishu.com/
+[website]: https://mbmishu.github.io/#/
 
 [youtube]: https://www.youtube.com/channel/UCZqTclnC77TmiSzsosMj-Cg
 [instagram]: https://www.instagram.com/mb_mishu/

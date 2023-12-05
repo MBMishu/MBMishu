@@ -1,12 +1,9 @@
 <h1 align="center">Hi <img  src="https://github.com/MBMishu/MBMishu/blob/main/hi.gif" width="65px">, I'm A.T.M. Masum Billah</h1>
 <h3 align="center">A Crazy Full Stack Application Developer And Robotics Engineer Who Wants To Explore Every Tech Out There.</h3>
-### Hi there, I'm A.T.M. Masum Billah 👋
 
 [![Website](https://img.shields.io/website?label=mbmishu.github.io&style=plastic&url=https%3A%2F%2Fmbmishu.github.io%2F)](https://mbmishu.github.io/#/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MBMishu&label=Profile%20views&color=0e75b6&style=flat" alt="MBMishu" /> </p>
-
-## I'm a Developer.
 
 - 👨‍💻 All of my projects are available at [mbmishu.github.io](mbmishu.github.io)
 
@@ -15,13 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-[<img align="left" alt="" width="42px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
 <a href="https://www.linkedin.com/in/masum-billah-mishu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Masum Billah mishu" height="30" width="40" /></a>
 
 <a href="https://www.facebook.com/masum.mishu.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Masum Billah Mishu" height="30" width="40" /></a>

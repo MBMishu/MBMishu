@@ -36,11 +36,8 @@
 <img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
 <img align="left" alt="GitHub" width="46px" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667"/>
 </p>
-
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBMishu&show_icons=true&locale=en&layout=compact" alt="MBMishu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MBMishu&show_icons=true&locale=en" alt="MBMishu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MBMishu&" alt="MBMishu" /></p>
 
 [website]: https://mbmishu.github.io/#/

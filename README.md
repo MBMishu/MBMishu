@@ -20,21 +20,33 @@
 
 <h3 align="left"><img  src="https://github.com/MBMishu/MBMishu/blob/main/code.gif" width="65px">Languages and Tools:</h3>
 <p align="left">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="46px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="MySQL" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="java" width="46px" src="https://user-images.githubusercontent.com/46429170/160254646-39ba3252-fc7a-476d-8ead-3ea7868bd360.png"/>
-<img align="left" alt="android" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
-<img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/6412038?s=200&v=4"/>
-<img align="left" alt="GitHub" width="46px" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667"/>
-<img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/1525981?s=200&v=4"/>
-<img align="left" alt="GitHub" width="46px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
-<img align="left" alt="GitHub" width="46px" src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667"/>
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" />
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBMishu&show_icons=true&locale=en&layout=compact" alt="MBMishu" /></p>
